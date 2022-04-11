@@ -21,5 +21,3 @@
   <img src="[layout=compact&theme=dark](https://cdn.discordapp.com/attachments/912833988136149023/915772659659309098/Png.png)"<p align="center">
 </p>
 
-<!--<a href="link" style="text-align: center">
-<!--<img src="https://discord.c99.nl/widget/theme-1/887879437494915072.png" align="center"></a> -->
