@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">CertifiedPhD</a></b>.
+    <b><a rel="nofollow noopener noreferrer" target="_blank">CertifiedPhD</a></b>
     <br>JavaScript <br>
 
 </samp>
